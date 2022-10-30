@@ -1,11 +1,9 @@
 <h1>Hi, I’m Rupantar Chakraborty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
-- I’m interested in ... coding, content writing etc.
-- I’m currently learning ... Computer Science Engineering
-- How to reach me ... instagram.com/_iam_rupantar_
+I'm a Web Developer, Software Developer , Data-science Enthusiast and an open source contributor. I'm currently a student and pursuing BTECH at Siliguri Institute of Technology affiliated to MAKAUT University, West Bengal, India.
 
-<!---
-Rupantar-68/Rupantar-68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
+<b>My skills include :</b><br>
+🔹️Programming Language: C, JAVA, JavaScript, Python <br>
+🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>
+🔹️Web Development: HTML5 , CSS3 <br>
+🔹️Operating System: Windows, Macos, Linux.<br>
+🔹️IDEs: VS Code, Xcode, Intellij idea<br>
