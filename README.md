@@ -22,9 +22,6 @@ I'm a Web Developer, Software Developer , Data-science Enthusiast and an open so
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Rupantar-68&icon=3&color=4)](https://visitcount.itsvg.in)
 
