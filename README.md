@@ -1,13 +1,7 @@
 <img src="https://github.com/Rupantar-68/Rupantar-68/blob/main/Hello%2520World.gif?raw=true" width="150px" style="max-width:100%;">
 
 <h1>Hi, I’m Rupantar Chakraborty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">
-display:inline-block;
-width:100%;
-font-weight:bold;
-font-size:40px;
-color:#FFFFFF;
-background-color:#FFB405;
-display:inline-block;
+
 </h1>
 
 
