@@ -6,6 +6,10 @@
 I'm a Web Developer, Software Developer , Data-science Enthusiast and an open source contributor. I'm currently a student and pursuing BTECH at Siliguri Institute of Technology affiliated to MAKAUT University, West Bengal, India.<br>My skills include :<br>🔹️Programming Language: C, JAVA, JavaScript, Python<br>🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>🔹️Web Development: HTML5 , CSS3<br>🔹️Operating System: Windows, Macos, Linux.<br>🔹️IDEs: VS Code, Xcode, Intellij idea
 
 
+
+
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamrupantar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_iam_rupantar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rupantar-chakraborty-152808205) 
 
