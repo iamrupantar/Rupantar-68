@@ -6,7 +6,56 @@
 I'm a Web Developer, Software Developer , Data-science Enthusiast and an open source contributor. I'm currently a student and pursuing BTECH at Siliguri Institute of Technology affiliated to MAKAUT University, West Bengal, India.<br>My skills include :<br>🔹️Programming Language: C, JAVA, JavaScript, Python<br>🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>🔹️Web Development: HTML5 , CSS3<br>🔹️Operating System: Windows, Macos, Linux.<br>🔹️IDEs: VS Code, Xcode, Intellij idea
 
 
-
+{
+    "timeline": {
+        "background": "#000000",
+        "tracks": [
+            {
+                "clips": [
+                    {
+                        "asset": {
+                            "type": "title",
+                            "text": "Hello World",
+                            "style": "future",
+                            "position": "left",
+                            "size": "x-small"
+                        },
+                        "start": 4,
+                        "length": 11,
+                        "transition": {
+                            "in": "fade",
+                            "out": "fade"
+                        },
+                        "effect": "zoomIn"
+                    }
+                ]
+            },
+            {
+                "clips": [
+                    {
+                        "asset": {
+                            "type": "video",
+                            "src": "https://shotstack-assets.s3-ap-southeast-2.amazonaws.com/footage/earth.mp4",
+                            "trim": 5
+                        },
+                        "start": 0,
+                        "length": 15,
+                        "transition": {
+                            "in": "fade",
+                            "out": "fade"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "output": {
+        "format": "gif",
+        "resolution": "mobile",
+        "quality": "low",
+        "fps": 12
+    }
+}
 
 
 
