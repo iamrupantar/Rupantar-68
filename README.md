@@ -1,3 +1,5 @@
+<img src="![image](https://user-images.githubusercontent.com/75066281/221368642-e826768f-f043-4a36-afaf-fda9336d236c.png)
+">
 <h1>Hi, I’m Rupantar Chakraborty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
 
 
