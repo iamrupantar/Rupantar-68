@@ -1,8 +1,4 @@
-<img src="https://github.com/Rupantar-68/Rupantar-68/blob/main/Hello%2520World.gif?raw=true" width="150px" style="max-width:100%;" id="hello" >
-#hello  {
-float: right;    
- margin: 0 0 0 15px;
-}
+<img src="https://github.com/Rupantar-68/Rupantar-68/blob/main/Hello%2520World.gif?raw=true" width="150px" style="max-width:100%;" float: "right" margin: "0 0 0 15px;" >
 
 <h1>Hi, I’m Rupantar Chakraborty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
 
