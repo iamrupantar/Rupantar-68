@@ -1,6 +1,6 @@
 
 
-<h1>Hi, I’m Rupantar Chakraborty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">
+<h1>Hi, I am Rupantar Chakraborty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">
 
 </h1>
 
