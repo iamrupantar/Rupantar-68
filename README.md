@@ -1,6 +1,6 @@
 
 
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+!+I'M+Rupantar+Chakraborty;Welcome+To+My+Github+Profile" alt="Typing SVG" /></a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+!+I'M+Rupantar+Chakraborty;Welcome+To+My+Github+Profile" alt="Typing SVG" /></a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" padding= "0px" width="30px" style="max-width:100%;">
 
 </h1>
 
