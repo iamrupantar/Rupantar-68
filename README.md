@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+!+I'M+Rupantar+Chakraborty;Welcome+To+My+Github+Profile" alt="Typing SVG" /></a>
 
 -----
-# 💫 About Me:
+# 💫 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=About+me%3A+" alt="Typing SVG" /></a>
 I'm a Web Developer, Software Developer , Data-science Enthusiast and an open source contributor. I'm currently a student and pursuing BTECH at Siliguri Institute of Technology affiliated to MAKAUT University, West Bengal, India.<br>My skills include :<br>🔹️Programming Language: C, JAVA, JavaScript, Python<br>🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>🔹️Web Development: HTML5 , CSS3<br>🔹️Operating System: Windows, Macos, Linux.<br>🔹️IDEs: VS Code, Xcode, Intellij idea
 
 
